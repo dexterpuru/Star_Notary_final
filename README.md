@@ -1,9 +1,17 @@
-## Star Name: DxprStar
+## Token
 
-## Star Symbol: DXS
+### Star Name: DxprStar
 
-## Contract Address: [0x5B14F6229516775BeC785d9c9cEb9a3ED387Ef78](https://rinkeby.etherscan.io/address/0x5B14F6229516775BeC785d9c9cEb9a3ED387Ef78)
+### Star Symbol: DXS
 
-## Truffle version: 5.1.13
+### Contract Address: [0x5B14F6229516775BeC785d9c9cEb9a3ED387Ef78](https://rinkeby.etherscan.io/address/0x5B14F6229516775BeC785d9c9cEb9a3ED387Ef78)
 
-## OpenZeppelin Version: 2.1.2
+## Versions
+
+### Truffle version: 5.1.13
+
+### OpenZeppelin Version: 2.1.2
+
+### NodeJS: v10.x
+
+### Web3: 1.0.0
